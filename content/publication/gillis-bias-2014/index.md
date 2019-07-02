@@ -1,0 +1,13 @@
+---
+title: "Bias tradeoffs in the creation and analysis of protein-protein interaction networks"
+date: 2014-04-01
+publishDate: 2019-07-01T22:37:23.105805Z
+authors: ["Jesse Gillis", "Sara Ballouz", "Paul Pavlidis"]
+publication_types: ["2"]
+abstract: "Networks constructed from aggregated protein-protein interaction data are commonplace in biology. But the studies these data are derived from were conducted with their own hypotheses and foci. Focusing on data from budding yeast present in BioGRID, we determine that many of the downstream signals present in network data are significantly impacted by biases in the original data. We determine the degree to which selection bias in favor of biologically interesting bait proteins goes down with study size, while we also find that promiscuity in prey contributes more substantially in larger studies. We analyze interaction studies over time with respect to data in the Gene Ontology and find that reproducibly observed interactions are less likely to favor multifunctional proteins. We find that strong alignment between co-expression and protein-protein interaction data occurs only for extreme co-expression values, and use this data to suggest candidates for targets likely to reveal novel biology in follow-up studies. BIOLOGICAL SIGNIFICANCE: Protein-protein interaction data finds particularly heavy use in the interpretation of disease-causal variants. In principle, network data allows researchers to find novel commonalities among candidate genes. In this study, we detail several of the most salient biases contributing to aggregated protein-protein interaction databases. We find strong evidence for the role of selection and laboratory biases. Many of these effects contribute to the commonalities researchers find for disease genes. In order for characterization of disease genes and their interactions to not simply be an artifact of researcher preference, it is imperative to identify data biases explicitly. Based on this, we also suggest ways to move forward in producing candidates less influenced by prior knowledge. This article is part of a Special Issue entitled: Can Proteomics Fill the Gap Between Genomics and Phenotypes?"
+featured: false
+publication: "*Journal of Proteomics*"
+tags: ["Bias", "Co-expression", "Databases", "Protein", "Gene Ontology", "Multifunctional Enzymes", "Multifunctionality", "Networks", "Protein Interaction Mapping", "Protein Interaction Maps", "Protein–protein interaction", "Saccharomyces cerevisiae Proteins"]
+doi: "10.1016/j.jprot.2014.01.020"
+---
+

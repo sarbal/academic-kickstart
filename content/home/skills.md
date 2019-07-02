@@ -27,9 +27,27 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
   description = "10%"
 
+  
+[[feature]]
+  icon = "coffee"
+  icon_pack = "fas"
+  name = "Chill"
+  description = "100%"
+
+[[feature]]
+  icon = "dragon"
+  icon_pack = "fas"
+  name = "Awesome"
+  description = "10%"
+
+[[feature]]
+  icon = "poo"
+  icon_pack = "fas"
+  name = "Funky"
+  description = "100%"
 +++

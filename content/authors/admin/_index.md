@@ -22,17 +22,22 @@ bio: My research interests include functional genomics, transcriptomics, X-linke
 
 interests:
 - Transcriptomics (single-cell and bulk)
-- Disease
+- Co-expression
+- X-linked disorders
+- Sex differences in disease
 - Meta-analysis
 
 education:
   courses:
-  - course: PhD in Bioinformatics
-    institution: University of New South Wales
+  - course: PhD Bioinformatics
+    institution: Victor Chang Cardiac Research Institute and University of New South Wales
     year: 2013
-  - course: BEng/BS in Bioinformatics and genetics
+  - course: BE Bioinformatics
     institution: University of New South Wales
-    year: 2009
+    year: 2008
+  - course: BS Genetics
+    institution: University of New South Wales
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

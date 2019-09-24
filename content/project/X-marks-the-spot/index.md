@@ -30,3 +30,6 @@ url_video: ""
 slides: example
 ---
 
+Differences in penetrance and severity of X-linked disorders stem from both genetic and transcriptional variation. How X-linked variants affect functional pathways remains a knowledge gap, along with the impact of X-inactivation on penetrance. Due to the stochasticity of the silencing - differences in timing of silencing in cell lineages, survival, selection and other unknown influences - an imbalance is typically observed. X-skewing is a driver of phenotypic variation and mosaicism although in disease contexts the breadth of this is not entirely understood. Severe mutations can often be obscured from presenting in females or appear in milder forms as the ‘unhealthy’ X may be preferentially silenced during XCI. Males, having no compensatory mechanism for such variants, exhibit disease or if embryonically lethal, fail to survive. X-skewing is implicated in atherosclerosis, cardiovascular disease, inflammatory and autoimmune diseases. 
+
+---

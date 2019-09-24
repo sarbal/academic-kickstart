@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Genome Biology"
 publication_short: ""
 
-abstract: "The use of the human reference genome has shaped methods and data across modern genomics. This has offered many benefits while creating a few constraints. In the following opinion, we outline the history, properties, and pitfalls of the current human reference genome. In a few illustrative analyses, we focus on its use for variant-calling, highlighting its nearness to a ‘type specimen’. We suggest that switching to a consensus reference would offer important advantages over the continued use of the current reference with few disadvantages."
+abstract: "The use of the human reference genome has shaped methods and data across modern genomics. This has offered many benefits while creating a few constraints. In the following opinion, we outline the history, properties, and pitfalls of the current human reference genome. In a few illustrative analyses, we focus on its use for variant-calling, highlighting its nearness to a type specimen. We suggest that switching to a consensus reference would offer important advantages over the continued use of the current reference with few disadvantages."
 
 # Summary. An optional shortened abstract.
 summary: ""

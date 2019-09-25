@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1562357707423.000,
+    "created" : 1569372717761.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "C025EF84",
+    "id" : "C0212C53",
     "lastKnownWriteTime" : 1569372473,
     "last_content_update" : 1569372473,
-    "path" : "~/GitHub/academic-kickstart/content/project/Rare-expression/index.md",
-    "project_path" : "content/project/Rare-expression/index.md",
+    "path" : "~/GitHub/academic-kickstart/content/project/Coexp/index.md",
+    "project_path" : "content/project/Coexp/index.md",
     "properties" : {
-        "cursorPosition" : "11,11",
+        "cursorPosition" : "1,7",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 7,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

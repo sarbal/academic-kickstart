@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Is it time to changte the reference genome?"
+title: "Is it time to change the reference genome?"
 authors: [Sara Ballouz, Alexander Dobin, Jesse A. Gillis]
 date: 2019-08-09
 doi: "10.1186/s13059-019-1774-4"

@@ -1,0 +1,512 @@
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+#heatmap.3( B[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c3], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+ind.all[o,]
+o
+ind.all[20,]
+ind = ind.all[20,]
+count_pairs(C[,ind])
+count(C[,ind])
+o
+ind = ind.all[9,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+o
+ind = ind.all[8,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+o
+ind = ind.all[24,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+o
+ind = ind.all[26,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+o
+ind = ind.all[28,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+C[f.r,f.c]
+C[f.r,f.c][1:10,]
+f.c2
+C[f.r,f.c2][1:10,]
+C[f.r,f.c2][1:10,15:30]
+C[f.r,f.c2][1:10,]
+colnames(C)=="119640346"
+which(colnames(C)=="119640346" )
+which(colnames(C)=="119640347" )
+which(colnames(C)=="119640427" )
+ind = c(2466,2467)
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+count(C[,ind])
+C1 = C
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+o
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( A[f.r,f.c], col=0:4)
+heatmap.3( B[f.r,f.c], col=0:4)
+heatmap.3( B[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( B[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+ind.all = update_freqs2(mat.build.merge)
+fishp = sapply(1:dim(ind.all)[1], function(i) count_pairs_pvals(mat.build.merge[,ind.all[i,]])[[2]] )
+np = sapply(1:dim(ind.all)[1], function(i) sum(count_pairs_pvals(mat.build.merge[,ind.all[i,]])[[1]]) )
+plot(np, -log10(fishp), pch=19, xlab="Number of cells (minimum 10)", ylab="-log10 pvalue")
+hap_i
+dim(mat.build.merge)
+dim(mat.build.merge)[2]
+dim(mat.build.merge)[2] - dim(A)[2]
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c3], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+o
+o[1:80]
+C = B
+ppj = list()
+ind.all = do.call(rbind, lapply( freq[1:nn,1], function(top) which(num2==top, arr.ind=T)) )
+ind.all = unique(t(apply(ind.all,1,sort)) )
+fishp = sapply(1:dim(ind.all)[1], function(i) count_pairs_pvals(C[,ind.all[i,]])[[2]] )
+np = sapply(1:dim(ind.all)[1], function(i) sum(count_pairs_pvals(C[,ind.all[i,]])[[1]]) )
+#while( length(ind) > 0  ){
+o = order(fishp)
+o
+k
+for(oi in o[1:80] ){
+ind = ind.all[oi,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+k = k + 1
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+C = B
+ppj = list()
+k = 1
+for(oi in o ){
+ind = ind.all[oi,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+k = k + 1
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+heatmap.3( C[f.r,f.c], col=0:4)
+ind.all = update_freqs2(C)
+fishp = sapply(1:dim(ind.all)[1], function(i) count_pairs_pvals(C[,ind.all[i,]])[[2]] )
+np = sapply(1:dim(ind.all)[1], function(i) sum(count_pairs_pvals(C[,ind.all[i,]])[[1]]) )
+plot(np, -log10(fishp), pch=19, xlab="Number of cells (minimum 10)", ylab="-log10 pvalue")
+heatmap.3( C[f.r,f.c], col=0:4)
+o
+o = order(fishp)
+o
+for(oi in o ){
+ind = ind.all[oi,]
+ppj[[k]] = count_pairs(C[,ind])
+ppj[[k]]
+ji = ind[1]
+jj = ind[2]
+n = dim(ppj[[k]])[1]
+if( n>0 ){
+for(i in 1:2){
+fji = C[,ji] == as.numeric(ppj[[k]][i,1])
+fjj = C[,jj] == as.numeric(ppj[[k]][i,2])
+fji.miss = which(C[fji,jj] == 0)
+if( length(fji.miss) >0){
+C[fji,jj][fji.miss] = ppj[[k]][i,2]
+}
+fjj.miss = which(C[fjj,ji] == 0)
+if( length(fjj.miss) > 0){
+C[fjj,ji][fjj.miss] = ppj[[k]][i,1]
+}
+}
+}
+k = k + 1
+}
+heatmap.3( C[f.r,f.c], col=0:4)
+ind.all = update_freqs2(C)
+fishp = sapply(1:dim(ind.all)[1], function(i) count_pairs_pvals(C[,ind.all[i,]])[[2]] )
+np = sapply(1:dim(ind.all)[1], function(i) sum(count_pairs_pvals(C[,ind.all[i,]])[[1]]) )
+plot(np, -log10(fishp), pch=19, xlab="Number of cells (minimum 10)", ylab="-log10 pvalue")
+o = order(fishp)
+dim(ind.all)
+heatmap.3( C[f.r,f.c], col=0:4)
+heatmap.3( C[f.r,f.c2], col=0:4)
+load("carrier1/seo.Rdata")
+setwd("xcgd")
+load("carrier1/seo.Rdata")
+seo1 = seo
+load("carrier2/seo.Rdata")
+colData1 = seo1@colData
+colData2 = seo@colData
+colData = rbind(colData1, colData2)
+data1 = seo1@assays[[1]]
+data2 = seo@assays[[1]]
+m = match( rownames(data1), rownames(data2))
+f.d1 = !is.na(m)
+f.d2 = m[f.d1]
+data1 = data1[f.d1,]
+data2 = data2[f.d2,]
+cd1 = paste0(colnames(data1), "_1" )
+cd2 = paste0(colnames(data2), "_2" )
+rownames(colData) = c(cd1,cd2)
+colnames(colData)[5] = "cell_type"
+study_id = c(rep(1, length(cd1)), rep(2, length(cd2)) )
+names(study_id) = rownames(colData)
+colData = cbind(colData, study_id)
+sample_id = rownames(colData)
+names(sample_id) = rownames(colData)
+colData = cbind(colData, sample_id)
+data = cbind(data1, data2)
+colnames(data) = names(sample_id)
+data = as.matrix(data)
+seo = SummarizedExperiment(assays=list(counts=data), colData=colData)
+# carrier 1
+new.cluster.ids <- c( "CD14+ Mono", "CD14+ Mono", "CD14+ Mono", "FCGR3A+ Mono",
+"CD14+ Mono", "DC", "CD8 T", "DC?", "DC", "B", "Platelet",
+"DC", "?", "DC")
+current.cluster.ids <- c(0:13)
+new.cluster.ids
+seo@colData[,4]
+seo@colData[,5]
+range(seo@colData[,5])
+range(seo1@colData[,5])
+range(seo2@colData[,5])
+range(seo1@colData[,5])
+load("carrier2/seo_v2.Rdata")
+colData1 = seo1@colData
+colData2 = seo@colData
+colData2
+colData2[,4]
+colData2[,5]
+range(colData2[,5])
+range(colData1[,5])
+load("carrier2/seo.Rdata")
+colData2 = seo@colData
+range(colData1[,5])
+range(colData2[,5])
+plot(seo@colData[,1:2)
+plot(seo@colData[,1:2])
+seo@colData[,1:2]
+seo@colData[1:10,]
+seo@metadata
+seo@assays
+seo@elementMetadata
+setwd("xcgd/carrier1/")
+setwd("../xcgd/carrier1/")
+library(Seurat)
+library(tidyverse)
+pbmc.data <- Read10X(data.dir = "filtered_feature_bc_matrix/" )
+pbmc <- CreateSeuratObject(raw.data = pbmc.data, min.cells = 3, min.genes = 10, project = "10X_monocytes")
+mito.genes <- grep(pattern = "^MT-", x = rownames(x = pbmc@data), value = TRUE)
+percent.mito <- Matrix::colSums(pbmc@raw.data[mito.genes, ]) / Matrix::colSums(pbmc@raw.data)
+pbmc <- AddMetaData(object = pbmc, metadata = percent.mito, col.name = "percent.mito")
+VlnPlot(object = pbmc, features.plot = c("nGene", "nUMI", "percent.mito"), nCol = 3)
+par(mfrow = c(1, 2))
+GenePlot(object = pbmc, gene1 = "nUMI", gene2 = "percent.mito")
+GenePlot(object = pbmc, gene1 = "nUMI", gene2 = "nGene")
+#
+pbmc <- FilterCells(object = pbmc, subset.names = c("nGene", "percent.mito"), low.thresholds = c(200, -Inf), high.thresholds = c(2500, 0.2))
+pbmc <- NormalizeData(object = pbmc, normalization.method = "LogNormalize", scale.factor = 1e4)
+pbmc <- FindVariableGenes(object = pbmc, mean.function = ExpMean, dispersion.function = LogVMR, x.low.cutoff = 0.0125, x.high.cutoff = 3, y.cutoff = 0.5)
+pbmc <- ScaleData(object = pbmc, vars.to.regress = c("nUMI", "percent.mito"))
+PrintPCA(object = pbmc, pcs.print = 1:5, genes.print = 5, use.full = FALSE)
+pbmc <- RunPCA(object = pbmc, pc.genes = pbmc@var.genes, do.print = TRUE, pcs.print = 1:5, genes.print = 5)
+pbmc <- ProjectPCA(object = pbmc, do.print = FALSE)
+pbmc <- FindClusters(object = pbmc, reduction.type = "pca", dims.use = 1:10, resolution = 0.6, print.output = 0, save.SNN = TRUE)
+pbmc <- RunTSNE(object = pbmc, dims.use = 1:10)
+TSNEPlot(object = pbmc, do.label=T)
+pbmc
+# carrier 1
+new.cluster.ids <- c( "CD14+ Mono", "CD14+ Mono", "CD14+ Mono", "FCGR3A+ Mono",
+"CD14+ Mono", "DC", "CD8 T", "DC?", "DC", "B", "Platelet",
+"DC", "?", "DC")
+current.cluster.ids <- c(0:13)
+pbmc@ident <- plyr::mapvalues(x = pbmc@ident, from = current.cluster.ids, to = new.cluster.ids)
+TSNEPlot(object = pbmc, do.label = TRUE)
+new.cluster.ids <- c( "DC")
+current.cluster.ids <- c("DC?")
+pbmc@ident <- plyr::mapvalues(x = pbmc@ident, from = current.cluster.ids, to = new.cluster.ids)
+TSNEPlot(object = pbmc, do.label = TRUE)
+pbmc@meta.data
+pbmc@ident
+pbmc@scale.data
+pbmc@var.genes
+pbmc@calc.params
+pbmc@calc.params$RunTSNE
+pbmc@calc.params$RunTSNE$reduction.use
+pbmc@RunTSNE
+pbmc@dr
+pbmc@dr$tsne
+pbmc@dr$tsne[,1]
+pbmc@dr$tsne[[1]]
+pbmc@dr$tsne
+pbmc@dr$tsne@gene.loadings.full
+pbmc@dr$tsne@gene.loadings
+pbmc@dr$tsne@misc
+pbmc@dr$tsne@cell.embeddings
+tsne1 = pbmc@dr$tsne@cell.embeddings
+tsne1 = cbind(pbmc@dr$tsne@cell.embeddings, pbmc@ident)
+tsne1
+tsne1 = cbind(pbmc@dr$tsne@cell.embeddings, as.character(pbmc@ident) )
+tsne1
+tsne1 = cbind(pbmc@dr$tsne@cell.embeddings, as.character(pbmc@ident) , pbmc@meta.data)
+tsne1
+save(pbmc, file="carrier1.Rdata")
+getwd()
+pbmc@assay
+pbmc@data
+data1 = pbmc@data
+dim(data1)
+pbmc@assay
+pbmc@raw.data
+data1 = pbmc@data
+save(data1, tsne1, file="carrier1.sub.Rdata")
+setwd("../meta/")
+load("../carrier2/carrier2.Rdata")
+load("../carrier2/carrier2.sub.Rdata")
+m = match( rownames(data1), rownames(data2))
+f.d1 = !is.na(m)
+f.d2 = m[f.d1]
+data1 = data1[f.d1,]
+data2 = data2[f.d2,]
+cd1 = paste0(colnames(data1), "_1" )
+cd2 = paste0(colnames(data2), "_2" )
+tsne1
+tsne1[,5]
+tsne1[,4]
+tsne1[,3]
+colData1 = tsne1
+colData2 = tsne2
+colData = rbind(colData1, colData2)
+rownames(colData) = c(cd1,cd2)
+colnames(colData)[5] = "cell_type"
+study_id = c(rep(1, length(cd1)), rep(2, length(cd2)) )
+names(study_id) = rownames(colData)
+colData = cbind(colData, study_id)
+sample_id = rownames(colData)
+names(sample_id) = rownames(colData)
+rownames(colData)
+colData
+colData[1,]
+colnames(colData)[3] = "cell_type"
+colData = rbind(colData1, colData2)
+rownames(colData) = c(cd1,cd2)
+colnames(colData)[3] = "cell_type"
+study_id = c(rep(1, length(cd1)), rep(2, length(cd2)) )
+names(study_id) = rownames(colData)
+colData = cbind(colData, study_id)
+sample_id = rownames(colData)
+names(sample_id) = rownames(colData)
+colData = cbind(colData, sample_id)
+data = cbind(data1, data2)
+colnames(data) = names(sample_id)
+data = as.matrix(data)
+seo = SummarizedExperiment(assays=list(counts=data), colData=colData)
+library(SummarizedExperiment)
+seo = SummarizedExperiment(assays=list(counts=data), colData=colData)
+var_genes = variableGenes(dat = seo, exp_labels = seo$study_id)
+source("../carrier2/metaneighborfaster.R")
+var_genes = variableGenes(dat = seo, exp_labels = seo$study_id)
+library(MetaNeighbor)
+var_genes = variableGenes(dat = seo, exp_labels = seo$study_id)
+celltype_NV = MetaNeighborUS(var_genes = var_genes,
+dat = seo,
+study_id = seo$study_id,
+cell_type = seo$cell_type)
+top_hits = topHits(cell_NV = celltype_NV,
+dat = seo,
+study_id = seo$study_id,
+cell_type = seo$cell_type,
+threshold = 0.9)
+top_hits
+cols = rev(colorRampPalette(RColorBrewer::brewer.pal(11,"RdYlBu"))(100))
+breaks = seq(0, 1, length=101)
+gplots::heatmap.2(celltype_NV,
+margins=c(8,8),
+keysize=1,
+key.xlab="AUROC",
+key.title="NULL",
+trace = "none",
+density.info = "none",
+col = cols,
+breaks = breaks,
+offsetRow=0.1,
+offsetCol=0.1,
+cexRow = 0.7,
+cexCol = 0.7)
+save(var_genes,top_hits, celltype_NV, file="metan.results.Rdata" )

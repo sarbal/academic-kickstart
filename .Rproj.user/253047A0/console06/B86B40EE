@@ -1,0 +1,288 @@
+[0m[0KMicrosoft Windows [Version 10.0.18362.418][0K[?25l
+(c) 2019 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25h[?25l
+[0K[?25hC:\Users\Sara\Documents\GitHub\academic-kickstart>[0Kl[0Ks[0K[?25l
+'ls' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25hd[0Ki[0Kr[0K[?25l
+ Volume in drive C has no label.[0K
+ Volume Serial Number is 064F-7AE0[0K
+[0K
+ Directory of C:\Users\Sara\Documents\GitHub\academic-kickstart[0K
+[0K
+11/12/2019  07:29 AM    <DIR>          .[0K
+11/12/2019  07:29 AM    <DIR>          ..[0K
+07/04/2019  01:03 PM               318 .editorconfig[0K
+07/05/2019  03:05 PM                33 .gitignore[0K
+07/04/2019  01:03 PM               109 .gitmodules[0K
+11/12/2019  07:30 AM             1,154 .Rhistory[0K
+11/12/2019  07:29 AM               274 academic.Rproj[0K
+07/04/2019  01:03 PM    <DIR>          config[0K
+07/03/2019  05:13 AM             2,143 config.toml[0K
+07/04/2019  01:04 PM    <DIR>          content[0K
+07/04/2019  05:27 PM    <DIR>          data[0K
+07/04/2019  01:04 PM    <DIR>          layouts[0K
+07/03/2019  05:13 AM             1,099 LICENSE.md[0K
+07/03/2019  05:13 AM               396 netlify.toml[0K
+07/04/2019  01:04 PM    <DIR>          public[0K
+07/03/2019  05:13 AM             2,713 README.md[0K
+07/04/2019  01:04 PM    <DIR>          resources[0K
+07/04/2019  01:03 PM    <DIR>          scripts[0K
+07/04/2019  01:04 PM    <DIR>          static[0K
+07/04/2019  01:03 PM    <DIR>          themes[0K
+07/03/2019  05:13 AM             1,683 update_academic.sh[0K
+07/03/2019  05:13 AM                52 view.sh[0K
+07/04/2019  01:03 PM                25 _config.yml[0K
+              12 File(s)          9,999 bytes[0K
+              11 Dir(s)  64,730,071,040 bytes free[0K
+[0K
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25hc[0Kd[0K[54G[53G[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>c[0K[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25h^V[0K[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25hC:\Users\Sara\AppData\Roaming\Hugo\hugo.exe[0K[93G[92G[91G[90G[89G[88G[87G[86G[85G[84G[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cC:\Users\Sara\AppData\Roaming\Hugo\hugo.exe[0K[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cdC:\Users\Sara\AppData\Roaming\Hugo\hugo.ex[0Ke
+[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo.e[0Kx
+e[0K[1A[54G[?25h[?25l
+
+The directory name is invalid.[0K
+[0K
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25hcd C:\Users\Sara\AppData\Roaming\Hugo\hugo.e[0Kx[?25l
+e[0K[?25h[?25l[0K[?25h[?25l[1AC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo.e[0K
+[0K[1A[95G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo.[0K
+[0K[1A[94G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo[0K
+[0K[1A[93G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hug[0K
+[0K[1A[92G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\hu[0K
+[0K[1A[91G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\h[0K
+[0K[1A[90G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>cd C:\Users\Sara\AppData\Roaming\Hugo\[0K
+[0K[1A[89G[?25h[?25l
+
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25hd[0Ki[0Kr[0K[?25l
+ Volume in drive C has no label.[0K
+ Volume Serial Number is 064F-7AE0[0K
+[0K
+ Directory of C:\Users\Sara\AppData\Roaming\Hugo[0K
+[0K
+06/15/2019  06:13 PM    <DIR>          .[0K
+06/15/2019  06:13 PM    <DIR>          ..[0K
+06/30/2019  05:11 AM        68,505,890 hugo.exe[0K
+               1 File(s)     68,505,890 bytes[0K
+               2 Dir(s)  64,729,673,728 bytes free[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25hh[0Kugo.exe[0K]0;  - hugo.exe[?25l
+[0K[?25h]0; Building sites … Total in 1 ms[0K[?25l
+Error: Error building site: open C:\Users\Sara\AppData\Roaming\Hugo\content: The system cannot[0K
+find the file specified.[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25h^V[0K[?25lC:\Users\Sara\AppData\Roaming\Hugo>[0K[?25hh[0Ku[0Kgo.exe[0K[45G[?25lC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe  -b / -D -F -d "public" --themesDir themes -t acad[0Ke
+mic[0K[?25h]0;  - hugo.exe   -b / -D -F -d "public" --themesDir themes -t academic[?25l
+[0K[?25h]0; Error: Unable to find theme Directory: C:\Users\Sara\AppData\Roaming\Hugo\themes\academic[0K[?25l
+[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25hhugo.exe  -b / -D -F -d "public" --themesDir themes -t acad[0Ke[?25l
+mic[0K[?25h[?25l[1AC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe[0K
+[0K[1A[44G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>dir[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\Sara\AppData\Roaming\Hugo\[0K
+[0K[1A[74G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo.exe[0K
+[0K[1A[82G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\Sara\AppData\Roaming\Hugo\[0K
+[0K[1A[74G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>dir[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe[0K
+[0K[1A[44G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe  -b / -D -F -d "public" --themesDir themes -t acad[0Ke
+mic[0K[?25h[?25l[1AC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe[0K
+[0K[1A[44G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>dir[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\Sara\AppData\Roaming\Hugo\[0K
+[0K[1A[74G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\Sara\AppData\Roaming\Hugo\hugo.exe[0K
+[0K[1A[82G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>dir[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>ls[0K
+[0K[1A[38G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>l[0K
+[0K[1A[37G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>[0K
+[0K[1A[36G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>c[0K
+[0K[1A[37G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd[0K
+[0K[1A[38G[?25h[39G[?25l
+C:\Users\Sara\AppData\Roaming\Hugo[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25hc[0Kd[0K[39G[?25l
+C:\Users\Sara\AppData\Roaming\Hugo[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25h -b / -D -F -d "public" --themesDir themes -t academic[0K[?25l
+[0K[?25h'-b' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+C:\Users\Sara\AppData\Roaming\Hugo>[0K[?25h -b / -D -F -d "public" --themesDir themes -t academic[0K[89G[88G[87G[86G[85G[84G[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd[0K[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t academic[0K[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd[0K[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe  -b / -D -F -d "public" --themesDir themes -t acad[0Ke
+mic[0K[?25h[?25l[1AC:\Users\Sara\AppData\Roaming\Hugo>cd[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t academic[0K
+[0K[1A[90G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>hugo.exe  -b / -D -F -d "public" --themesDir themes -t acad[0Ke
+mic[0K[?25h[?25l[1AC:\Users\Sara\AppData\Roaming\Hugo>cd[0K
+[0K[1A[39G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t academic[0K
+[0K[1A[90G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t academi[0K
+[0K[1A[89G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t academ[0K
+[0K[1A[88G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t acade[0K
+[0K[1A[87G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t acad[0K
+[0K[1A[86G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t aca[0K
+[0K[1A[85G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t ac[0K
+[0K[1A[84G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t a[0K
+[0K[1A[83G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -t[0K
+[0K[1A[82G[?25h[81G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes -[0K
+[0K[1A[80G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir themes[0K
+[0K[1A[79G[?25h[78G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir theme[0K
+[0K[1A[77G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir them[0K
+[0K[1A[76G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir the[0K
+[0K[1A[75G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir th[0K
+[0K[1A[74G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir t[0K
+[0K[1A[73G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDir[0K
+[0K[1A[72G[?25h[71G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesDi[0K
+[0K[1A[70G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themesD[0K
+[0K[1A[69G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --themes[0K
+[0K[1A[68G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --them[0K
+[0K[1A[66G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --the[0K
+[0K[1A[65G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --th[0K
+[0K[1A[64G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --t[0K
+[0K[1A[63G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" --[0K
+[0K[1A[62G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public" -[0K
+[0K[1A[61G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public"[0K
+[0K[1A[60G[?25h[59G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "public[0K
+[0K[1A[58G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "publi[0K
+[0K[1A[57G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "publ[0K
+[0K[1A[56G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "pub[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "pu[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "p[0K
+[0K[1A[53G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d "[0K
+[0K[1A[52G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -d[0K
+[0K[1A[51G[?25h[50G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F -[0K
+[0K[1A[49G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -F[0K
+[0K[1A[48G[?25h[47G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D -[0K
+[0K[1A[46G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -D[0K
+[0K[1A[45G[?25h[44G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b / -[0K
+[0K[1A[43G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b /[0K
+[0K[1A[41G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo> -b[0K
+[0K[1A[40G[?25h[39G[?25lC:\Users\Sara\AppData\Roaming\Hugo> -[0K
+[0K[1A[38G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>[0K
+[0K[1A[37G[?25h[36G[?25lC:\Users\Sara\AppData\Roaming\Hugo>c[0K
+[0K[1A[37G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd[0K
+[0K[1A[38G[?25h[39G[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C[0K
+[0K[1A[40G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:[0K
+[0K[1A[41G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\[0K
+[0K[1A[42G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycle.Bin[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycle.Bi[0K
+[0K[1A[53G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycle.B[0K
+[0K[1A[52G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycle.[0K
+[0K[1A[51G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycle[0K
+[0K[1A[50G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recycl[0K
+[0K[1A[49G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recyc[0K
+[0K[1A[48G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Recy[0K
+[0K[1A[47G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Rec[0K
+[0K[1A[46G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$Re[0K
+[0K[1A[45G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$R[0K
+[0K[1A[44G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\$[0K
+[0K[1A[43G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\[0K
+[0K[1A[42G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\U[0K
+[0K[1A[43G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users[0K
+[0K[1A[47G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\UsersS[0K
+[0K[1A[48G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users[0K
+[0K[1A[47G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd C:\Users\[0K
+[0K[1A[48G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All Users"[0K
+[0K[1A[59G[?25h[58G[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All User"[0K
+[0K[1A[57G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All Use"[0K
+[0K[1A[56G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All Us"[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All U"[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All "[0K
+[0K[1A[53G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\All"[0K
+[0K[1A[52G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Al"[0K
+[0K[1A[51G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\A"[0K
+[0K[1A[50G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\"[0K
+[0K[1A[49G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\S"[0K
+[0K[1A[50G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara"[0K
+[0K[1A[54G[?25h[53G[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\"[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.cisco"[0K
+[0K[1A[61G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.cisco[0K
+[0K[1A[60G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.cisc[0K
+[0K[1A[59G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.cis[0K
+[0K[1A[58G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.ci[0K
+[0K[1A[57G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.c[0K
+[0K[1A[56G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\.[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\A[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Ap[0K
+[0K[1A[56G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\A[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\D[0K
+[0K[1A[55G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Do[0K
+[0K[1A[56G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents"[0K
+[0K[1A[64G[?25h[63G[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\"[0K
+[0K[1A[64G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\G"[0K
+[0K[1A[65G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\Gi"[0K
+[0K[1A[66G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\GitHub"[0K
+[0K[1A[71G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\GitHub[0K
+[0K[1A[70G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\GitHub\[0K
+[0K[1A[71G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\GitHub\a[0K
+[0K[1A[72G[?25h[?25lC:\Users\Sara\AppData\Roaming\Hugo>cd "C:\Users\Sara\Documents\GitHub\academic-kickstart"[0K
+[0K[1A[90G[?25h[?25l
+
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25hcd "C:\Users\Sara\Documents\GitHub\academic-[0Kk[?25l
+ickstart"[0K[?25h[?25l[1AC:\Users\Sara\Documents\GitHub\academic-kickstart> -b / -D -F -d "public" --themesDir themes -[0Kt
+ academic[0K[?25h[?25l[1AC:\Users\Sara\Documents\GitHub\academic-kickstart>cd[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart> -b / -D -F -d "public" --themesDir themes -[0Kt
+ academic[0K[?25h[?25l[1AC:\Users\Sara\Documents\GitHub\academic-kickstart>cd[0K
+[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe  -b / -D -F -d "public" --themesDir[0K
+themes -t academic[0K[?25h[18G[17G[16G[15G[14G[13G[12G[11G[10G[8G[7G[6G[5G[4G[3G[2G[1G[?25l[1A[95G[?25h[94G[93G[92G[91G[90G[89G[88G[87G[86G[85G[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[54G[53G[52G[51G[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>.hugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>..hugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>../hugo.exe  -b / -D -F -d "public" --themes[0KD
+ir themes -t academic[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>..hugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>..\hugo.exe  -b / -D -F -d "public" --themes[0KD
+ir themes -t academic[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>..hugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>.hugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe  -b / -D -F -d "public" --themesDir[0K
+themes -t academic[0K[1A[51G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>Chugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>CLhugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>CL:hugo.exe  -b / -D -F -d "public" --themes[0KD
+ir themes -t academic[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>CLhugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>CL:hugo.exe  -b / -D -F -d "public" --themes[0KD
+ir themes -t academic[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>CLhugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>Chugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe  -b / -D -F -d "public" --themesDir[0K
+themes -t academic[0K[1A[51G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>:hugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe  -b / -D -F -d "public" --themesDir[0K
+themes -t academic[0K[1A[51G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>Chugo.exe  -b / -D -F -d "public" --themesDi[0Kr
+ themes -t academic[0K[1A[52G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:hugo.exe  -b / -D -F -d "public" --themesD[0Ki
+r themes -t academic[0K[1A[53G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\hugo.exe  -b / -D -F -d "public" --themes[0KD
+ir themes -t academic[0K[1A[54G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycle.Bin[0K
+[0K[1A[66G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycle.Bi[0K
+[0K[1A[65G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycle.B[0K
+[0K[1A[64G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycle.[0K
+[0K[1A[63G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycle[0K
+[0K[1A[62G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\$Recycl[0K
+[0K[1A[61G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe[0K
+[0K[1A[59G[?25h[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>hugo.exe  -b / -D -F -d "public" --themesDir[0K
+themes -t academic[0K[?25h[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[4G[3G[2G[1G[?25l[1A[95G[?25h[94G[93G[92G[91G[90G[89G[88G[87G[86G[85G[84G[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[?25lC:\Users\Sara\Documents\GitHub\academic-kickstart>C:\Users\Sara\AppData\Roaming\Hugo\hugo.exe[0K
+-b / -D -F -d "public" --themesDir themes -t academic[0K[1A[86G[?25h]0;  - C:\Users\Sara\AppData\Roaming\Hugo\hugo.exe   -b / -D -F -d "public" --themesDir themes -t academic[?25l
+
+[0K[?25hBuilding sites …[0K[18G[?25lBuilding sites … WARN 2019/11/12 07:33:34 Data for key 'buttons' in path 'academic\page_sharer[0K.
+toml' is overridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'name' in path 'academic\themes\apogee.toml' is overridd[0Ke
+n by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'menu_primary' in path 'academic\themes\apogee.toml' is [0Ko
+verridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'menu_text_active' in path 'academic\themes\apogee.toml'[0K
+is overridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'menu_title' in path 'academic\themes\apogee.toml' is ov[0Ke
+rridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'home_section_odd' in path 'academic\themes\apogee.toml'[0K
+is overridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'home_section_even' in path 'academic\themes\apogee.toml[0K'
+ is overridden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'light' in path 'academic\themes\apogee.toml' is overrid[0Kd
+en by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'primary' in path 'academic\themes\apogee.toml' is overr[0Ki
+dden by higher precedence data already in the data tree[0K
+WARN 2019/11/12 07:33:34 Data for key 'menu_text' in path 'academic\themes\apogee.toml' is ove[0Kr
+ridden by higher precedence data already in the data tree[0K
+[0K[?25hTotal in 747 ms[0K[?25l
+Error: Error building site: failed to render pages: render of "home" failed: execute of templa[0Kt
+e failed: template: index.html:7:3: executing "main" at <partial "widget_page.html" .>: error [0Kc
+alling partial: "C:\Users\Sara\Documents\GitHub\academic-kickstart\themes\academic\layouts\par[0Kt
+ials\widget_page.html:18:24": execute of template failed: template: partials/widget_page.html:[0K7
+1:9: executing "partials/widget_page.html" at <partial $widget_path $widget_args>: error calli[0Kn
+g partial: "C:\Users\Sara\Documents\GitHub\academic-kickstart\themes\academic\layouts\partials[0K\
+widgets\pages.html:18:24": execute of template failed: template: partials/widgets/pages.html:1[0K8
+:24: executing "partials/widgets/pages.html" at <site.GetPage>: error calling GetPage: failed [0Kt
+o resolve ref: page reference "/post" is ambiguous[0K
+[0K[?25h]0; [?25l
+C:\Users\Sara\Documents\GitHub\academic-kickstart>[0K[?25h

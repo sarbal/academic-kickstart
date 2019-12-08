@@ -31,4 +31,4 @@ slides: example
 ---
 
 
----
+Co-expression, or co-variation can be used to discover co-regulated, co-transcribed, and co-functional gene modules, in condition-specific ways. 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sex differences in disease"
-summary: "Many diseases affect men and women differently, but strikingly so in autoimmune disease. Of individuals suffering from these disorders in Western countries, approximately 80% are female. Despite decades of study, a critical gap in our understanding underlying these differences still remains. In particular, the cell-types, genes, gene interactions and regulatory networks generating sex differences in the immune system and how these manifest into disease."
+summary: "Many diseases affect men and women differently, but strikingly so in autoimmune disease."
 authors: []
 tags: 
 - Co-expression, gene expression, sex differences, autoimmune disorders
@@ -40,3 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Of individuals suffering from these disorders in Western countries, approximately 80% are female. Despite decades of study, a critical gap in our understanding underlying these differences still remains. In particular, the cell-types, genes, gene interactions and regulatory networks generating sex differences in the immune system and how these manifest into disease.
+

@@ -30,6 +30,6 @@ url_video: ""
 slides: example
 ---
 
-Gene dysfunction in disease is frequently studied through a systems biology framework. It is common to look to the transcriptome as a measure of the activity of the genes in the system. Gene expression changes are detected through differential expression, and then systems-level signals are evaluated either through gene set enrichment or network analyses. 
+Gene dysfunction in disease is frequently studied through a systems biology framework. 
 
 ---

@@ -1,10 +1,24 @@
-# IDEs
-.idea/
-
-# Hugo
-resources/
 public/
-jsconfig.json
-node_modules/
-go.sum
-.hugo_build.lock
+.idea/
+themes/academic
+.Rproj.user/253047A0/pcs/source-pane.pper
+.Rhistory
+.Rproj.user/253047A0/pcs/source-pane.pper
+.Rhistory
+.Rhistory
+.Rproj.user/253047A0/pcs/source-pane.pper
+.Rhistory
+.Rproj.user/253047A0/pcs/source-pane.pper
+.Rproj.user/253047A0/sources/s-C5183C42/2CFDF59D-contents
+.Rproj.user/253047A0/sources/s-C5183C42/5572D5EE
+.Rproj.user/253047A0/sources/s-C5183C42/5572D5EE-contents
+.Rproj.user/253047A0/sources/s-C5183C42/86952C60-contents
+.Rproj.user/253047A0/sources/s-C5183C42/C0212C53-contents
+.Rproj.user/253047A0/sources/s-C5183C42/C025EF84-contents
+.Rproj.user/253047A0/sources/s-C5183C42/D051C346-contents
+.Rproj.user/253047A0/sources/s-C5183C42/DEA9580A-contents
+.Rproj.user/253047A0/sources/s-C5183C42/F115095-contents
+.Rproj.user/253047A0/sources/s-C5183C42/F4B0784A-contents
+.Rproj.user/253047A0/sources/s-C5183C42/FD7AF5EE-contents
+.Rproj.user/253047A0/sources/s-C5183C42/lock_file
+*.pper

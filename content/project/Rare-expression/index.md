@@ -3,7 +3,7 @@ title: Gene expression analysis
 summary: Differential gene expression analysis of disease 
 tags:
 - Rare expression, outliers
-date: ""
+date: 2019-01-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,15 +12,7 @@ image:
   caption: 
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/saraballouz
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

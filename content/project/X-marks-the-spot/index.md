@@ -3,7 +3,7 @@ title: X-marks the spot
 summary: The X-chromosome plays a major role in many diseases and disorders. 
 tags:
 - X-linked disorders
-date: ""
+date: 2019-11-12
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,15 +12,7 @@ image:
   caption: 
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/saraballouz
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
